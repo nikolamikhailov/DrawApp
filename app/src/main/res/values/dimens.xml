@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_size_tool">48dp</dimen>
+    <dimen name="item_size_color">32dp</dimen>
+    <dimen name="item_size_shape">32dp</dimen>
+    <dimen name="item_size_size">32dp</dimen>
+</resources>
